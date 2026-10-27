@@ -144,6 +144,8 @@ the local-storage-based application described here.
 
 Source code: <https://github.com/Valorisalive/Story-Weaver>
 
+Demo video: <https://drive.google.com/file/d/1jdhb-4D_zxTfpGmoo0084jnfvejUgF6q/view?usp=drive_link>
+
 ### Deploy with Vercel
 
 1.  Open <https://vercel.com/new>.
